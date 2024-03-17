@@ -17,15 +17,9 @@ I'm currently working on the setup and management of a LoRa server for communica
 
 <h3 align="center">Click on any icon to reach me on my socials!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramonevehdez/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/ramon_eve/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.youtube.com/@RamstricHdez">
-    <img src="./icons/yT.svg" />
-  </a>
+  <a href="https://www.linkedin.com/in/ramonevehdez/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/ramon_eve/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.youtube.com/@RamstricHdez"><img src="./icons/yT.svg" /></a>
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramonevehdez/) [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramon_eve/) [![My channel](./icons/yT.svg)](https://www.youtube.com/@RamstricHdez)
