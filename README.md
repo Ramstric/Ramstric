@@ -20,11 +20,9 @@ I'm currently working on the setup and management of a LoRa server for communica
   <a href="https://www.linkedin.com/in/ramonevehdez/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   .
   <a href="https://www.instagram.com/ramon_eve/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
   <a href="https://www.youtube.com/@RamstricHdez">
     <img src="./icons/yT.svg" />
   </a>
