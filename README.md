@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo+Play&duration=1500&color=FFFFFF&background=191919&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=80&lines=Ram%C3%B3n+E.+Hern%C3%A1ndez+Hdez.;IPN+ESIME+Student+%F0%9F%93%93+%7C+CIC+Researcher%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo+Play&duration=1500&color=FFFFFF&background=191919&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Ram%C3%B3n+E.+Hern%C3%A1ndez+Hdez.;IPN+ESIME+Student+%F0%9F%93%93+%7C+CIC+Researcher%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 I'm an undergrad student at ESIME Unidad Zacatenco, in the last year of Communications and Electronics Engineering specializing in Software.
 
