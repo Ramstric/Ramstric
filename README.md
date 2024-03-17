@@ -17,5 +17,6 @@ I'm currently working on the setup and management of a LoRa server for communica
 I have high expectations for the future of Mexico and the many ways I can help to improve through my multiple aptitudes, let's connect and open up to new opportunities!
 
 Hit me up on my different socials:
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) ramstric@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)]ramstric@gmail.com
 
