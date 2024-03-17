@@ -20,6 +20,9 @@ I'm currently working on the setup and management of a LoRa server for communica
   <a href="https://www.linkedin.com/in/ramonevehdez/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.linkedin.com/in/ramonevehdez/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 #### Click on any icon to reach me on my socials!
