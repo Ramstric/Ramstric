@@ -1,4 +1,4 @@
-# Hey! I'm Ramón ![Hi](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+# Hey! I'm Ramón <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" size="20">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo+Play&duration=2500&color=FFFFFF&background=191919&size=35&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=120&lines=Ram%C3%B3n+E.+Hern%C3%A1ndez+Hdez.;IPN+ESIME+Student+%F0%9F%93%93+%7C+CIC+Researcher%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
