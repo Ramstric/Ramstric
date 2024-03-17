@@ -15,7 +15,7 @@ I'm currently working on the setup and management of a LoRa server for communica
 I have high expectations for the future of Mexico and the many ways I can help to improve through my multiple aptitudes, let's connect and open up to new opportunities!
 
 #### Click on any icon to reach me on my socials!
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramonevehdez/) [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramon_eve/) [![My channel](./icons/yT.svg)](www.youtube.com/@RamstricHdez)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramonevehdez/) [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramon_eve/) [![My channel](./icons/yT.svg)](https://www.youtube.com/@RamstricHdez)
 
 
 
