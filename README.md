@@ -15,14 +15,21 @@ I've shaped myself through multiple personal and academic projects with technica
 ## Current status
 I'm currently working on the setup and management of a LoRa server for communication and an article on a PDE solution method to analyze the behavior of human cells in response to external agents.
 
+#### Click on any icon to reach me on my socials!
 <p align="center">
-  Click on any icon to reach me on my socials!
   <a href="https://www.linkedin.com/in/ramonevehdez/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  <a href="https://www.instagram.com/ramon_eve/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://www.youtube.com/@RamstricHdez">
+    <img src="./icons/yT.svg" />
+  </a>
 </p>
 
-#### Click on any icon to reach me on my socials!
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramonevehdez/) [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramon_eve/) [![My channel](./icons/yT.svg)](https://www.youtube.com/@RamstricHdez)
 
 
