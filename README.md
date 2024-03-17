@@ -18,7 +18,7 @@ I have high expectations for the future of Mexico and the many ways I can help t
 
 Hit me up on my different socials:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ram%C3%B3n-everardo-hern%C3%A1ndez-hern%C3%A1ndez-722701206/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramon_eve/) ![My channel](./icons/youtubePlay.svg)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ram%C3%B3n-everardo-hern%C3%A1ndez-hern%C3%A1ndez-722701206/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ramon_eve/) ![My channel](./icons/yT.svg)
 
 
 
