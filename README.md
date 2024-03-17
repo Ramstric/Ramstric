@@ -14,6 +14,7 @@ I've shaped myself through multiple personal and academic projects with technica
 
 ## Current status
 I'm currently working on the setup and management of a LoRa server for communication and an article on a PDE solution method to analyze the behavior of human cells in response to external agents.
+### Current status
 
 <h3 align="center">Click on any icon to reach me on my socials!</h3>
 <p align="center">
