@@ -18,5 +18,5 @@ I have high expectations for the future of Mexico and the many ways I can help t
 
 Hit me up on my different socials:
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)]ramstric@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)ramstric@gmail.com
 
