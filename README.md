@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ramón%20E.%20Hernández%20📓&width=900&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ramón%20E.%20Hernández%20📓&width=1300&height=150)](https://github.com/Akshay090/svg-banners)
 
 I'm an undergrad student at ESIME Unidad Zacatenco, in the last year of Communications and Electronics Engineering specializing in Software.
 
