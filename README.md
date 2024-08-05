@@ -5,18 +5,6 @@
 ## 🧐 About me...
 I'm an undergrad student 🎓 at ESIME Unidad Zacatenco, in the last year of Communications and Electronics Engineering 🔧 specializing in Software.
 
-## 🤓 What I've done...
-I've shaped myself through multiple personal and academic projects with technical experience in:
-* 🧑🏽‍💻 multiple programming languages
-* 3D modeling software
-* 📹 video recording and editing
-* 🎸 digital audio recording and processing on multiple DAWs
-* 🔌 And a passion for calculus and electronics
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ableton,arduino,matlab" />
-</p>
-
 ## 🔨 Current work status
 I'm currently working on the setup and management of a LoRa server for communication 🛜 and an article on a PDE solution method 📃 to analyze the behavior of human cells in response to external agents.
 
