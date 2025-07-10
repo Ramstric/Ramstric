@@ -14,8 +14,6 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ramonevehdez/" style="text-decoration: none;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
-
 <a href="https://www.instagram.com/ramon_eve/" style="text-decoration: none;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
-
 <a href="https://www.youtube.com/@RamstricHdez" style="text-decoration: none;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube-play"/></a>
 </div>
