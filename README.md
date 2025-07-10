@@ -12,7 +12,7 @@
 
 <h3 align="center">Click on any icon to reach me on my socials!</h3>
 
-<div style='display:flex; flex-direction:row; place-content:center; gap:20px'>
+<div align="center">
 <a href="https://www.linkedin.com/in/ramonevehdez/">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
